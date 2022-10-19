@@ -1,0 +1,26 @@
+first remote file > a.txt
+ls
+
+;
+
+
+
+:wq!
+
+qq
+
+
+
+
+
+
+
+
+
+
+x.zc.zx;.cz
+qwe
+qe
+git add.txt
+cd git_test
+echo first remote file
